@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Computer Science student from Lloyd Institute of Engineering & Technology</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjal15195gaur&label=Profile%20views&color=0e75b6&style=flat" alt="pranjal15195gaur" /> </p>
 
 - 🌱 I’m currently learning **Frameworks and Machine learning algorithms**
 
